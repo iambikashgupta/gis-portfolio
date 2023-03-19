@@ -16,4 +16,4 @@ I am Bikash Gupta, a second-year Master's student at Carnegie Mellon, pursuing p
 
 Here is where my map examples and other spatial stuffs will go...
 
-<img src = "https://raw.githubusercontent.com/iambikashgupta/gis-portfolio/main/4d472708-e58f-44af-9cb7-6b23de5db6b4.JPG", width=450> 
+<img src = "https://raw.githubusercontent.com/iambikashgupta/gis-portfolio/main/4d472708-e58f-44af-9cb7-6b23de5db6b4.JPG"> 
