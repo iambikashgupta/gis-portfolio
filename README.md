@@ -15,3 +15,5 @@ I am Bikash Gupta, a second-year Master's student at Carnegie Mellon, pursuing p
 # Portfolio
 
 Here is where my map examples and other spatial stuffs will go...
+
+<img src = "https://
