@@ -9,6 +9,7 @@ I am Bikash Gupta, a second-year Master's student at Carnegie Mellon, pursuing p
 
 # What I hope to learn
 
+* Get better at GitHub
 * Spatial Analysis 
 * Project Management
 
