@@ -42,45 +42,44 @@ The color ranges were as follows:
   </tr>
   </table>
 
- ## Demonstrating PPIA's reach via Google Maps
+## Demonstrating PPIA's reach via Google Maps
   
-  My goal is to plot all the consortium's universities and colleges on the google map customized to PPIA's logo personality. To do so, I am deducing 4 distinct colors from the color palette. Here is what we get. 
+My goal is to plot all the consortium's universities and colleges on the google map customized to PPIA's logo personality. To do so, I am deducing 4 distinct colors from the color palette. Here is what we get. 
   
-  ### Color Palette 
+### Color Palette 
   
-  We used the following image to generate palette:
+We used the following image to generate palette:
   
-  <img class="float" src="ppia-logo-blurry.png" atl="PPIA Logo"  width="110" height="100">
+<img class="float" src="ppia-logo-blurry.png" atl="PPIA Logo"  width="110" height="100">
   
-  Here was the palette that was generated: 
+Here was the palette that was generated: 
 
-  <img class="float" src="ppia-color-palette.png" atl="PPIA Logo"  width="110" height="100">
+<img class="float" src="ppia-color-palette.png" atl="PPIA Logo"  width="110" height="100">
   
-
- ### Maps 
+### Maps 
   
-  Here is the basemap upon which we will layer universities and campuses. 
+Here is the basemap upon which we will layer universities and campuses. 
   
-  <h4>This is Zoom Level 1. More broadly capturing the distributing of PPIA's consortium's institution in the United States.</h4> 
+This is Zoom Level 1. More broadly capturing the distributing of PPIA's consortium's institution in the United States.
   
-  ![Zoom Level 1](map_zoom1.png)
+![Zoom Level 1](map_zoom1.png)
   
-  <h4>Zoom Level 2: This is at the state-level.</h4> 
+Zoom Level 2: This is at the state-level.
   
-  ![Zoom Level 2](map_zoom2.png)
+![Zoom Level 2](map_zoom2.png)
   
-  <h4>Zoom Level 3: This is at the city level.</h4> 
+Zoom Level 3: This is at the city level.
   
-  ![Zoom Level 3](map_zoom3.png)
+![Zoom Level 3](map_zoom3.png)
   
   
-  ### Json File
+### Json File
     
-  You can access <a href='https://github.com/iambikashgupta/gis-portfolio/'> JSON codes here</a>.
+You can access <a href='https://github.com/iambikashgupta/gis-portfolio/'> JSON codes here</a>.
    
   
-  ### ook Up Table
+### Look Up Table
  
-  You can access the look up <a href="https://github.com/iambikashgupta/gis-portfolio/](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/"> table</a> here. 
+You can access the look up <a href="https://github.com/iambikashgupta/gis-portfolio/](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/"> table</a> here. 
   
 
