@@ -20,13 +20,13 @@ table thead, th {
   
 <body>
 
-<h1>Public Policy and International Affairs (PPIA) Consortium Universities</h1> 
+#Public Policy and International Affairs (PPIA) Consortium Universities 
 
 Public Policy and International Affairs is a prestigious fellowship that offers rising college seniors, particularly from marginalized communities, opportunities to study at various elite public policy colleges in the United States for their junior summer, thereby offering them the exposure in public policy and training them for careers in public offices.
   
 To encourage more minority representation in the government, bureaucray, for-profit, and non-profit sectors, more universities are opening doors for students from marginalized communities. Currently, 62 colleges and universities are a part of PPIA consortium, offering scholarships to students. Heinz College at Carnegie Mellon University is one of such colleges. 
   
-  <h4>Logo</h4>
+## Logo
 
 There are various banners of PPIA fellowships. One of them is here: 
 
@@ -63,7 +63,7 @@ The color ranges were as follows:
   </tr>
   </table>
 
-  <h2>Demonstrating PPIA's reach via Google Maps</h2> 
+ ## Demonstrating PPIA's reach via Google Maps
   
   My goal is to plot all the consortium's universities and colleges on the google map customized to PPIA's logo personality. To do so, I am deducing 4 distinct colors from the color palette. Here is what we get. 
   
@@ -81,7 +81,7 @@ The color ranges were as follows:
   <img class="float" src="ppia-color-palette.png" atl="PPIA Logo"  width="110" height="100">
   
 
-  <h3>Maps</h3> 
+ ### Maps 
   
   Here is the basemap upon which we will layer universities and campuses. 
   
