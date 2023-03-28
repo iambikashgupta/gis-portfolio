@@ -35,7 +35,7 @@ My goal is to plot all the consortium's universities and colleges on the google 
   
 Here was the palette that was generated: 
 
-<img class="float" src="ppia-color-palette.png" atl="PPIA Logo"  width="110" height="100">
+<img class="float" src="ppia-color-palette.png" atl="PPIA Logo"  width="300" height="300">
   
 ## Demonstrating PPIA's reach via Google Maps
   
