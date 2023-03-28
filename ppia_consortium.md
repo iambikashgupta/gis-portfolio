@@ -1,8 +1,8 @@
 # Public Policy and International Affairs (PPIA) Consortium Universities 
 
-Public Policy and International Affairs is a prestigious fellowship that offers rising college seniors, particularly from marginalized communities, opportunities to study at various elite public policy colleges in the United States for their junior summer, thereby offering them the exposure in public policy and training them for careers in public offices.
+Public Policy and International Affairs is a prestigious fellowship that offers rising college seniors, particularly from marginalized communities, opportunities to study at various elite public policy colleges in the United States during their summer of junior years, thereby offering them the exposure in public policy and training them for careers in public offices.
   
-To encourage more minority representation in the government, bureaucray, for-profit, and non-profit sectors, more universities are opening doors for students from marginalized communities. Currently, 62 colleges and universities are a part of PPIA consortium, offering scholarships to students. Heinz College at Carnegie Mellon University is one of such colleges. 
+To encourage more minority representation in the government, bureaucray, for-profit, and non-profit sectors, more universities are opening doors for students from marginalized communities. Currently, 62 colleges and universities are a part of PPIA consortium, offering scholarships to students to pursue graduate education. Heinz College at Carnegie Mellon University is one of such colleges. 
   
 ### Logo
 
@@ -27,20 +27,17 @@ The color ranges were as follows:
 | Lightning Yellow  | `#FCB827`                |
 | Matisse           | `#1C5F9E`                |
 
-
-## Demonstrating PPIA's reach via Google Maps
   
 My goal is to plot all the consortium's universities and colleges on the google map customized to PPIA's logo personality. To do so, I am deducing 4 distinct colors from the color palette. Here is what we get. 
   
 ### Color Palette 
-  
-We used the following image to generate palette:
-  
-<img class="float" src="ppia-logo-blurry.png" atl="PPIA Logo"  width="110" height="100">
+
   
 Here was the palette that was generated: 
 
 <img class="float" src="ppia-color-palette.png" atl="PPIA Logo"  width="110" height="100">
+  
+## Demonstrating PPIA's reach via Google Maps
   
 ### Maps 
   
@@ -67,5 +64,22 @@ You can access <a href='https://github.com/iambikashgupta/gis-portfolio/'> JSON 
 ### Look Up Table
  
 You can access the look up <a href="https://github.com/iambikashgupta/gis-portfolio/](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/"> table</a> here. 
+
+
+### Design Process and Decisions
+
+I took the following steps to work on the project:
+
+1. **Choosing color palette**: To tune the map closer to the PPIA's logo personality, I distilled main colors from PPIA logo via canvas.
+
+2. **Google Maps style editor**: I went to Google Maps style editor, chose the auberigine theme, and then edited macro layers with the color palette. 
+
+3. **Different zoom levels**: I chose three levels: the US, the state, and the city levels.
+
+4. **Tweaking**: I went back and changed certain colors so that the map was presentable and readable.
+
+5. **Documentation**: I copied JSON file and pasted in the Visual Studio Code, saved it to .json theme, and uploaded it back to the github page for any future reference. Secondly, I created a google document to put a Look Up reference table. Third, I created this html page. 
+
+
   
 
