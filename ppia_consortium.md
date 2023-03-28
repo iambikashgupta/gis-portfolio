@@ -31,7 +31,7 @@ There are various banners of PPIA fellowships. One of them is here:
 
 <img class="float" src="ppia-logo.png" atl="PPIA Logo"  width="110" height="100">
   
-![what is this](ppia-logo-png) 
+![what is this](ppia-logo.png) 
 
 However, PPIA has a specific logo, which uses 4 distinct colors.
 
