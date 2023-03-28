@@ -98,7 +98,7 @@ The color ranges were as follows:
   
   <h3><Json File></h3> 
     
-  You can access Json File [canva palette generator here](https://www.canva.com/colors/color-palette-generator/).
+  You can access Json File [canva palette generator here](https://www.canva.com/colors/color-palette-generator/)](https://github.com/iambikashgupta/gis-portfolio/).
   
   <h3>Look Up Table</h3>
  
