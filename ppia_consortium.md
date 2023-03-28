@@ -36,7 +36,7 @@ However, PPIA has a specific logo, which uses 4 distinct colors.
 
 <img class="float" src="ppia-logo-blurry.png" atl="PPIA Logo"  width="110" height="100">
 
-The photo was blurry, but when I uploaded on the [canva palette generator](https://www.canva.com/colors/color-palette-generator/), the generator still offered us the 4 distinct colors.
+The photo was blurry, but when I uploaded on the <a href='https://www.canva.com/colors/color-palette-generator/'> canva palette generator</a>, the generator still offered us the 4 distinct colors.
 
 The color ranges were as follows: 
 
@@ -98,9 +98,9 @@ The color ranges were as follows:
   
   <h3><Json File></h3> 
     
-  You can access Json File [canva palette generator here](https://www.canva.com/colors/color-palette-generator/)](https://github.com/iambikashgupta/gis-portfolio/).
+    You can access <a href='https://github.com/iambikashgupta/gis-portfolio/'> JSON codes here</a>.
     
-   <a href='https://www.canva.com/colors/color-palette-generator/)](https://github.com/iambikashgupta/gis-portfolio/'>click here</a>
+   <a href='https://www.canva.com/colors/color-palette-generator/'>click here</a>
   
   <h3>Look Up Table</h3>
  
