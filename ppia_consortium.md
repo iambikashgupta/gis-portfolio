@@ -85,15 +85,15 @@ The color ranges were as follows:
   
   <h4>This is Zoom Level 1. More broadly capturing the distributing of PPIA's consortium's institution in the United States.</h4> 
   
-  <img class="float" src="map_zoom1.png" atl="Map at Zoom Level 1"  width="110" height="100">
+  <img class="float" src="map_zoom1.png" atl="Map at Zoom Level 1"  width="500" height="400">
   
   <h4>Zoom Level 2: This is at the state-level.</h4> 
   
-  <img class="float" src="map_zoom2.png" atl="Map at Zoom Level 2"  width="110" height="100">
+  <img class="float" src="map_zoom2.png" atl="Map at Zoom Level 2"  width="500" height="400">
   
   <h4>Zoom Level 3: This is at the city level.</h4> 
   
-  <img class="float" src="map_zoom3.png" atl="Map at Zoom Level 3"  width="110" height="100">
+  <img class="float" src="map_zoom3.png" atl="Map at Zoom Level 3"  width="500" height="400">
   
   
   <h3><Json File></h3> 
@@ -102,7 +102,7 @@ The color ranges were as follows:
   
   <h3>Look Up Table</h3>
  
-  You can access the look up table [here](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/).
+  You can access the look up [table](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/).
   
   </body>
   </html>
