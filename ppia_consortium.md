@@ -19,6 +19,15 @@ The photo was blurry, but when I uploaded on the <a href='https://www.canva.com/
 
 The color ranges were as follows: 
 
+
+| Column 1 Color | Column 2 Hexagonal Value | 
+| --- | --- | --- |
+| Picton Blue 1, Column 1 | #49B8EF, Column 2 |
+| Swans Down, Column 1 | #DCECF0, Column 2 | 
+| Lightning Yellow, Column 1 | #FCB827, Column 2 | 
+| Matisse, Column 1 | #1C5F9E, Column 2 |
+
+
 <table style="width:100%">
   <tr>
     <th>Color</th>
