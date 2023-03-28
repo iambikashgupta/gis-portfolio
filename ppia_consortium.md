@@ -71,14 +71,16 @@ The color ranges were as follows:
   
   We used the following image to generate palette:
   
+  <br> </br>
+  
   <img class="float" src="ppia-logo-blurry.png" atl="PPIA Logo"  width="110" height="100">
   
   Here was the palette that was generated: 
   
+  <br></br>
   <img class="float" src="ppia-color-palette.png" atl="PPIA Logo"  width="110" height="100">
   
-  
-  
+
   <h3>Maps</h3> 
   
   Here is the basemap upon which we will layer universities and campuses. 
