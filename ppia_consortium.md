@@ -1,24 +1,3 @@
-
-<style>
-table,  {
-  border:2px solid black;
-}
-table thead, th { 
-  border-top: 1px solid #000; 
-  }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.float {
-   float: right;
-   padding-right: 16px;
-}
-</style>
-  
-<body>
-
 # Public Policy and International Affairs (PPIA) Consortium Universities 
 
 Public Policy and International Affairs is a prestigious fellowship that offers rising college seniors, particularly from marginalized communities, opportunities to study at various elite public policy colleges in the United States for their junior summer, thereby offering them the exposure in public policy and training them for careers in public offices.
