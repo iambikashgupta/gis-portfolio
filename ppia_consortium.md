@@ -22,17 +22,21 @@ table thead, th {
 
 <h1>Public Policy and International Affairs (PPIA) Consortium Universities</h1> 
 
-Public Policy and International Affairs is a prestigious fellowship that offers rising college juniors from marginalized communities the opportunities to study at various universities and colleges in the United States for a summer, offering them exposure in public policy and preparing them for public offices. 
+Public Policy and International Affairs is a prestigious fellowship that offers rising college seniors, particularly from marginalized communities, opportunities to study at various elite public policy colleges in the United States for their junior summer, thereby offering them the exposure in public policy and training them for careers in public offices.
+  
+To encourage more minority representation in the government, bureaucray, for-profit, and non-profit sectors, more universities are opening doors for students from marginalized communities. Currently, 62 colleges and universities are a part of PPIA consortium, offering scholarships to students. Heinz College at Carnegie Mellon University is one of such colleges. 
+  
+  <h4>Logo</h4>
 
 There are various banners of PPIA fellowships. One of them is here: 
 
 <img class="float" src="ppia-logo.png" atl="PPIA Logo"  width="110" height="100">
 
-However, there the logo that was used for this purpose is: 
+However, PPIA has a specific logo, which uses 4 distinct colors.
 
 <img class="float" src="ppia-logo-blurry.png" atl="PPIA Logo"  width="110" height="100">
 
-The photo was blurry, but when uploaded on the [canva palette generator](https://www.canva.com/colors/color-palette-generator/), it offered us the color.
+The photo was blurry, but when I uploaded on the [canva palette generator](https://www.canva.com/colors/color-palette-generator/), the generator still offered us the 4 distinct colors.
 
 The color ranges were as follows: 
 
@@ -61,6 +65,8 @@ The color ranges were as follows:
 
   <h2>Demonstrating PPIA's reach via Google Maps</h2> 
   
+  My goal is to plot all the consortium's universities and colleges on the google map customized to PPIA's logo personality. To do so, I am deducing 4 distinct colors from the color palette. Here is what we get. 
+  
   <h3>Color Palette</h3>
   
   We used the following image to generate palette:
@@ -71,28 +77,32 @@ The color ranges were as follows:
   
   <img class="float" src="ppia-color-palette.png" atl="PPIA Logo"  width="110" height="100">
   
+  
+  
   <h3>Maps</h3> 
   
-  <h4>Zoom Level 1</h4> 
+  Here is the basemap upon which we will layer universities and campuses. 
+  
+  <h4>This is Zoom Level 1. More broadly capturing the distributing of PPIA's consortium's institution in the United States.</h4> 
   
   <img class="float" src="map_zoom1.png" atl="Map at Zoom Level 1"  width="110" height="100">
   
-  <h4>Zoom Level 2</h4> 
+  <h4>Zoom Level 2: This is at the state-level.</h4> 
   
   <img class="float" src="map_zoom2.png" atl="Map at Zoom Level 2"  width="110" height="100">
   
-  <h4>Zoom Level 3</h4> 
+  <h4>Zoom Level 3: This is at the city level.</h4> 
   
   <img class="float" src="map_zoom3.png" atl="Map at Zoom Level 3"  width="110" height="100">
   
   
-  You can access Json File [canva palette generator](https://www.canva.com/colors/color-palette-generator/) for now
+  <h3><Json File></h3> 
+    
+  You can access Json File [canva palette generator here](https://www.canva.com/colors/color-palette-generator/).
   
   <h3>Look Up Table</h3>
-  
-  
-  
-  You can access the look up table [here](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/)
+ 
+  You can access the look up table [here](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/).
   
   </body>
   </html>
