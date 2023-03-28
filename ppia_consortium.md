@@ -4,13 +4,12 @@ Public Policy and International Affairs is a prestigious fellowship that offers 
   
 To encourage more minority representation in the government, bureaucray, for-profit, and non-profit sectors, more universities are opening doors for students from marginalized communities. Currently, 62 colleges and universities are a part of PPIA consortium, offering scholarships to students. Heinz College at Carnegie Mellon University is one of such colleges. 
   
-## Logo
+### Logo
 
 There are various banners of PPIA fellowships. One of them is here: 
 
 <img class="float" src="ppia-logo.png" atl="PPIA Logo"  width="110" height="100">
-  
-![what is this](ppia-logo.png) 
+
 
 However, PPIA has a specific logo, which uses 4 distinct colors.
 
@@ -47,17 +46,14 @@ The color ranges were as follows:
   
   My goal is to plot all the consortium's universities and colleges on the google map customized to PPIA's logo personality. To do so, I am deducing 4 distinct colors from the color palette. Here is what we get. 
   
-  <h3>Color Palette</h3>
+  ### Color Palette 
   
   We used the following image to generate palette:
-  
-  <br> </br>
   
   <img class="float" src="ppia-logo-blurry.png" atl="PPIA Logo"  width="110" height="100">
   
   Here was the palette that was generated: 
-  
-  <br></br>
+
   <img class="float" src="ppia-color-palette.png" atl="PPIA Logo"  width="110" height="100">
   
 
@@ -67,26 +63,24 @@ The color ranges were as follows:
   
   <h4>This is Zoom Level 1. More broadly capturing the distributing of PPIA's consortium's institution in the United States.</h4> 
   
-  <img class="float" src="map_zoom1.png" atl="Map at Zoom Level 1"  width="500" height="400">
+  ![Zoom Level 1](map_zoom1.png)
   
   <h4>Zoom Level 2: This is at the state-level.</h4> 
   
-  <img class="float" src="map_zoom2.png" atl="Map at Zoom Level 2"  width="500" height="400">
+  ![Zoom Level 2](map_zoom2.png)
   
   <h4>Zoom Level 3: This is at the city level.</h4> 
   
-  <img class="float" src="map_zoom3.png" atl="Map at Zoom Level 3"  width="500" height="400">
+  ![Zoom Level 3](map_zoom3.png)
   
   
-  <h3><Json File></h3> 
+  ### Json File
     
-   You can access <a href='https://github.com/iambikashgupta/gis-portfolio/'> JSON codes here</a>.
+  You can access <a href='https://github.com/iambikashgupta/gis-portfolio/'> JSON codes here</a>.
    
   
-  <h3>Look Up Table</h3>
+  ### ook Up Table
  
   You can access the look up <a href="https://github.com/iambikashgupta/gis-portfolio/](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/"> table</a> here. 
   
-  </body>
-
 
