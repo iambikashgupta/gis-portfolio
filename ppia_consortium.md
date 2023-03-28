@@ -98,13 +98,12 @@ The color ranges were as follows:
   
   <h3><Json File></h3> 
     
-    You can access <a href='https://github.com/iambikashgupta/gis-portfolio/'> JSON codes here</a>.
-    
-   <a href='https://www.canva.com/colors/color-palette-generator/'>click here</a>
+   You can access <a href='https://github.com/iambikashgupta/gis-portfolio/'> JSON codes here</a>.
+   
   
   <h3>Look Up Table</h3>
  
-  You can access the look up [table](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/).
+  You can access the look up <a href="https://github.com/iambikashgupta/gis-portfolio/](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/"> table</a> here. 
   
   </body>
   </html>
