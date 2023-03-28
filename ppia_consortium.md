@@ -1,3 +1,5 @@
+<html>
+
 <style>
 table,  {
   border:2px solid black;
@@ -15,6 +17,8 @@ table thead, th {
    padding-right: 16px;
 }
 </style>
+  
+<body>
 
 <h1>Public Policy and International Affairs (PPIA) Consortium Universities</h1> 
 
@@ -86,8 +90,11 @@ The color ranges were as follows:
   
   <h3>Look Up Table</h3>
   
+  
+  
   You can access the look up table [here](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/)
   
-  
+  </body>
+  </html>
 
 
