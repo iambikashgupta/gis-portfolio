@@ -1,6 +1,6 @@
 # Public Policy and International Affairs (PPIA) Consortium Universities 
 
-Public Policy and International Affairs is a prestigious fellowship that offers rising college seniors, particularly from marginalized communities, opportunities to study at various elite public policy colleges in the United States during their summer of junior years, thereby offering them the exposure in public policy and training them for careers in public offices.
+<a href="https://ppiaprogram.org/">Public Policy and International Affairs</a> is a prestigious fellowship that offers rising college seniors, particularly from marginalized communities, opportunities to study at various elite public policy colleges in the United States during their summer of junior years, thereby offering them the exposure in public policy and training them for careers in public offices.
   
 To encourage more minority representation in the government, bureaucray, for-profit, and non-profit sectors, more universities are opening doors for students from marginalized communities. Currently, 62 colleges and universities are a part of PPIA consortium, offering scholarships to students to pursue graduate education. Heinz College at Carnegie Mellon University is one of such colleges. 
   
