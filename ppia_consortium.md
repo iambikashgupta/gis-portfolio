@@ -63,7 +63,7 @@ You can access <a href='https://github.com/iambikashgupta/gis-portfolio/'> JSON 
   
 ### Look Up Table
  
-You can access the look up <a href="https://github.com/iambikashgupta/gis-portfolio/](https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing/"> table</a> here. 
+You can access the look up <a href="https://docs.google.com/document/d/1U1qyDIJZoNJw-hEzClXXR6GiBxCoPC1O6fI5Ar9krYM/edit?usp=sharing"> table</a> here. 
 
 
 ### Design Process and Decisions
