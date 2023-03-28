@@ -28,29 +28,6 @@ The color ranges were as follows:
 | Matisse           | `#1C5F9E`                |
 
 
-<table style="width:100%">
-  <tr>
-    <th>Color</th>
-    <th>Hexagonal Color Value</th>
-  </tr>
-  <tr>
-    <td>Picton Blue
-    <td>#49B8EF</td>
-  </tr>
-  <tr>
-    <td>Swans Down</td>
-    <td>#DCECF0</td>
-  </tr>
-  <tr>
-    <td>Lightning Yellow</td>
-    <td>#FCB827</td>
-  </tr>
-  <tr>
-    <td>Matisse</td>
-    <td>#1C5F9E</td>
-  </tr>
-  </table>
-
 ## Demonstrating PPIA's reach via Google Maps
   
 My goal is to plot all the consortium's universities and colleges on the google map customized to PPIA's logo personality. To do so, I am deducing 4 distinct colors from the color palette. Here is what we get. 
