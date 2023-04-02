@@ -21,5 +21,5 @@ Here is where my map examples and other spatial stuffs will go...
 
 I recently worked in mapping the opioid crisis. 
 
-You can find the data visualization (here)[https://insights.arcgis.com/#/view/aa939c7bb447456cbecbe1066a327aa5] 
+You can find the data visualization [here](https://insights.arcgis.com/#/view/aa939c7bb447456cbecbe1066a327aa5) 
 
