@@ -21,5 +21,8 @@ Here is where my map examples and other spatial stuffs will go...
 
 I recently worked in mapping the opioid crisis. 
 
-You can find the data visualization [here](https://insights.arcgis.com/#/view/aa939c7bb447456cbecbe1066a327aa5) 
+You can find the data visualization [here](https://insights.arcgis.com/#/view/aa939c7bb447456cbecbe1066a327aa5).
 
+I also looked into the global flows of refugees from 1951-2020. 
+
+Here is the link to the [visual analysis](https://insights.arcgis.com/#/view/076994654a3448e186b11edbb48b500b) 
