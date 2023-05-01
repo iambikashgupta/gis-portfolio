@@ -43,7 +43,7 @@ I worked on several short-term projects. Some of them are below
 ## Mapping the opioid crisis. 
 You can find the data visualization [here](https://insights.arcgis.com/#/view/aa939c7bb447456cbecbe1066a327aa5)
 
-<iframe src="https://insights.arcgis.com/#/embed/353ae5be1e6d48fea608fa0b6371db02" width="100%" height="100%" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/076994654a3448e186b11edbb48b500b" width="100%" height="500%" frameborder="0"></iframe>
 
 ## Global flows of refugees from 1951-2020
 
