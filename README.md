@@ -1,5 +1,7 @@
 # GIS Portfolio
 
+![](Visualization.png)
+
 # About the Author
 
 I am Bikash Gupta, a graduating second-year Master's student at Carnegie Mellon University, where I am finishing up my degree in public policy and data analytics. As a self-proclaimed data visualization enthusiast, I relish working with spatial data and uncovering relationships between variables. In my view, spatial data visualization holds an enormous potential to help guide us through complex decision-making processes in the realm of public policy.
