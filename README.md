@@ -1,17 +1,31 @@
 # gis-portfolio
-This is my portfolio for Advanced GIS class! 
-
 
 # About Me
 
-I am Bikash Gupta, a second-year Master's student at Carnegie Mellon, pursuing public policy and data science. I want to use data science for social good. 
+I am Bikash Gupta, a graduating second-year Master's student at Carnegie Mellon, pursuing public policy and data analytics. I am a self-proclaimed data visualization enthusiast who likes to work with spatial data and find relationships between variables. I believe in the enormous power of spatial data visualization to guide us through decision making in issues of public policy. 
+
+In the spring of 2023, I took Advanced Geographic Information Systems (GIS) class at Carnegie Mellon University. I made this portfolio for that class.
 
 
-# What I hope to learn
+# About this Porfolio
 
-* Get better at GitHub
-* Spatial Analysis 
-* Project Management
+This is a portfolio for Advanced GIS class. During the six-week long course, I built on some of the skills I had gained in Introduction to GIS class. I also learned about new tools including using Github, and learned or knwe about other spatial visualization tools such as ArcGIS insights, google maps, QGIS, and mapbox etc. We also went in-depth to learning about using machine learning for predictive spatial analysis. For example, in one of the cases, we used random forest to predict data at more granular level. The class offered me exposure to all sort of tools, and I wished I had more time to delve into these tools for deeper. Given the prohibiting cost of Esri map, it may be impossible to use it unless as a part of the institution. However, I have also heard that the student deals are under 100. My goal is to expand on my budding data skills.
+
+Here are the thematic classfications of my learning: 
+
+Tools Learned/Knew about/Consoldiated my skills on: 
+* Mabpox
+* ArcGIS Insights
+* Google Maps
+* ArcGIS Dashboard 
+* ArcGIS Pro
+* Project management
+** Writing and responding to RFP
+
+Areas Learned about
+* Machine Learning
+** Random Forest classification
+
 
 # Portfolio
 
