@@ -1,19 +1,24 @@
-# gis-portfolio
+# GIS Portfolio
 
-# About Me
+# About the Author
 
-I am Bikash Gupta, a graduating second-year Master's student at Carnegie Mellon, pursuing public policy and data analytics. I am a self-proclaimed data visualization enthusiast who likes to work with spatial data and find relationships between variables. I believe in the enormous power of spatial data visualization to guide us through decision making in issues of public policy. 
+I am Bikash Gupta, a graduating second-year Master's student at Carnegie Mellon University, where I am finishing up my degree in public policy and data analytics. As a self-proclaimed data visualization enthusiast, I relish working with spatial data and uncovering relationships between variables. In my view, spatial data visualization holds an enormous potential to help guide us through complex decision-making processes in the realm of public policy.
 
-In the spring of 2023, I took Advanced Geographic Information Systems (GIS) class at Carnegie Mellon University. I made this portfolio for that class.
+During the spring semester of 2023, I had the privilege of enrolling in the Advanced Geographic Information Systems (GIS) course at Carnegie Mellon University. As a testament to the skills I acquired in the course, I created this portfolio that showcases my proficiency in GIS mapping and data visualization.
 
 
-# About this Porfolio
+# Course and Skills
 
-This is a portfolio for Advanced GIS class. During the six-week long course, I built on some of the skills I had gained in Introduction to GIS class. I also learned about new tools including using Github, and learned or knwe about other spatial visualization tools such as ArcGIS insights, google maps, QGIS, and mapbox etc. We also went in-depth to learning about using machine learning for predictive spatial analysis. For example, in one of the cases, we used random forest to predict data at more granular level. The class offered me exposure to all sort of tools, and I wished I had more time to delve into these tools for deeper. Given the prohibiting cost of Esri map, it may be impossible to use it unless as a part of the institution. However, I have also heard that the student deals are under 100. My goal is to expand on my budding data skills.
+Welcome to my Advanced GIS portfolio, a six-week long course that allowed me to build on my previous experience in Introduction to GIS. Throughout the course, I had the chance to learn about new spatial visualization tools, including ArcGIS Insights, Google Maps, QGIS, and Mapbox. The class also delved into machine learning for predictive spatial analysis, such as using random forest to predict data at a more granular level. I found this particularly interesting and I wished I had more time to delve deeper into the available tools. 
 
-Here are the thematic classfications of my learning: 
+In addition to expanding my skills with the aforementioned tools, I also gained exposure to project management skills, including writing and responding to RFPs. My overarching goal is to continue to build on my budding data skills and grow my expertise in the field of spatial analysis.
 
-Tools Learned/Knew about/Consoldiated my skills on: 
+## Tools
+
+To summarize, here are the thematic classifications of my learning in the Advanced GIS course:
+
+Tools Consolidated or Learned/Knew About:
+
 * Mabpox
 * ArcGIS Insights
 * Google Maps
@@ -22,9 +27,11 @@ Tools Learned/Knew about/Consoldiated my skills on:
 * Project management
 ** Writing and responding to RFP
 
-Areas Learned about
+## Areas 
+
+Areas of Study
 * Machine Learning
-** Random Forest classification
+* Random Forest classification
 
 
 # Portfolio
