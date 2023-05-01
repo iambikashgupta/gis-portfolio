@@ -31,9 +31,11 @@ Tools Consolidated or Learned/Knew About:
 
 ## Areas 
 
-Areas of Study
+Areas of Study:
 * Machine Learning
 * Random Forest classification
+* Spatial Analysis
+* Data Visualization
 
 
 # Portfolio
@@ -55,7 +57,7 @@ You can access the [visual analysis here.](https://insights.arcgis.com/#/view/07
 ## Mapping Madhesh
 For my final project, I took on the challenging task of Mapping Madhesh, the province I come from in Nepal. This project required extensive data collection, cleaning, and wrangling to ensure that the dataset was suitable for inputting into the ArcGIS map. As I worked my way through this process, I gained valuable insights into the entire pipeline, from scouring through datasets to delivering a finished product such as a dashboard. The journey was enlightening, and I was able to improve my skills in data analysis and visualization, while also gaining practical experience in mapping techniques. 
 
-You can access [story map here,](https://storymaps.arcgis.com/stories/393bbc9f73e642ed83cf7fb2fef8398c), [dashboard here](https://carnegiemellon.maps.arcgis.com/apps/dashboards/52fed227093c432abe6fbd2b5290e4f0), and associated [ArcGIS Insights here.](https://insights.arcgis.com/#/edit/f550c5467a634cfb89b5ba970b0a07c9)
+You can access [story map here](https://storymaps.arcgis.com/stories/393bbc9f73e642ed83cf7fb2fef8398c), [dashboard here](https://carnegiemellon.maps.arcgis.com/apps/dashboards/52fed227093c432abe6fbd2b5290e4f0), and associated [ArcGIS Insights here.](https://insights.arcgis.com/#/edit/f550c5467a634cfb89b5ba970b0a07c9)
 
 Alternatively, you can also read the story map here.
 
