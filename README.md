@@ -42,11 +42,12 @@ Areas of Study:
 
 I worked on several short-term projects. Some of them are listed below:
 
-## Global flows of refugees from 1951-2020 
+## Mapping the opioid crisis 
+
 You can find the data visualization [here.](https://insights.arcgis.com/#/view/aa939c7bb447456cbecbe1066a327aa5)
 
 
-## Mapping the opioid crisis
+## Global flows of refugees from 1951-2020
 
 You can access the [visual analysis here.](https://insights.arcgis.com/#/view/076994654a3448e186b11edbb48b500b) 
 
