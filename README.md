@@ -1,6 +1,6 @@
 # GIS Portfolio
 
-![](Visualization.png)
+![](banner.png)
 
 # About the Author
 
@@ -27,7 +27,7 @@ Tools Consolidated or Learned/Knew About:
 * ArcGIS Dashboard 
 * ArcGIS Pro
 * Project management
-** Writing and responding to RFP
+* Writing and responding to RFP
 
 ## Areas 
 
@@ -38,14 +38,15 @@ Areas of Study
 
 # Portfolio
 
-Here is where my map examples and other spatial stuffs will go...
+I worked on several short-term projects. Some of them are below
 
-<img src = "https://raw.githubusercontent.com/iambikashgupta/gis-portfolio/main/4d472708-e58f-44af-9cb7-6b23de5db6b4.JPG"> 
+## Mapping the opioid crisis. 
+You can find the data visualization [here](https://insights.arcgis.com/#/view/aa939c7bb447456cbecbe1066a327aa5)
 
-I recently worked in mapping the opioid crisis. 
+<iframe src="https://insights.arcgis.com/#/embed/353ae5be1e6d48fea608fa0b6371db02" width="100%" height="100%" frameborder="0"></iframe>
 
-You can find the data visualization [here](https://insights.arcgis.com/#/view/aa939c7bb447456cbecbe1066a327aa5).
+## Global flows of refugees from 1951-2020
 
-I also looked into the global flows of refugees from 1951-2020. 
+You can access the [visual analysis here.](https://insights.arcgis.com/#/view/076994654a3448e186b11edbb48b500b) 
 
-Here is the link to the [visual analysis](https://insights.arcgis.com/#/view/076994654a3448e186b11edbb48b500b) 
+<iframe src="https://insights.arcgis.com/#/embed/076994654a3448e186b11edbb48b500b" width="100%" height="100%" frameborder="0"></iframe>
